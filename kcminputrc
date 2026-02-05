@@ -1,0 +1,10 @@
+[Libinput][13652][64009][Compx 2.4G Wireless Receiver Mouse]
+PointerAcceleration=-0.200
+PointerAccelerationProfile=1
+
+[Libinput][9639][64007][Compx 2.4G Wireless Receiver]
+PointerAcceleration=0.400
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

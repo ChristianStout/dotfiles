@@ -1,0 +1,33 @@
+autostart/
+blender/
+#btop/
+cachyos/
+dconf/
+flutter/
+GIMP/
+go/
+godot/
+JetBrains/
+kate/
+kdeconnect/
+libreoffice/
+mpv/
+Mullvad\ VPN/
+nordvpn/
+onlyoffice/
+qBittorrent/
+session/
+unity3d/
+VSCodium/
+balenaEtcher/
+
+obs-studio/logs/
+obs-studio/profiler_data/
+
+libresprite/
+aseprite/files/
+aseprite/sessions/
+
+StardewValley/
+Minecraft\ Linux\ Launcher/
+VintagestoryData/

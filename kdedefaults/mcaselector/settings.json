@@ -1,0 +1,73 @@
+{
+  "locale": "en_GB",
+  "regionSelectionColor": "0xff7300cc",
+  "chunkSelectionColor": "0xff7300cc",
+  "pasteChunksColor": "0x00ff00cc",
+  "processThreads": 4,
+  "writeThreads": 4,
+  "maxLoadedFiles": 1,
+  "mcSavesDir": "/home/christian",
+  "debug": false,
+  "recentWorlds": {
+    "1763936399470": {
+      "recentWorld": "/home/christian/.minecraft/world-backups/world-11-23-2025/world/world",
+      "dimensionDirectories": [
+        "/home/christian/.minecraft/world-backups/world-11-23-2025/world/world"
+      ]
+    },
+    "1763940000716": {
+      "recentWorld": "/home/christian/.minecraft/world-backups/world-11-23-2025/world",
+      "dimensionDirectories": [
+        "/home/christian/.minecraft/world-backups/world-11-23-2025/world"
+      ]
+    },
+    "1763940961504": {
+      "recentWorld": "/home/christian/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/new/minecraft/saves/world",
+      "dimensionDirectories": [
+        "/home/christian/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/new/minecraft/saves/world"
+      ]
+    }
+  },
+  "recentFilterScripts": {},
+  "recentChangeScripts": {},
+  "recentOverlayScripts": {},
+  "filterScript": {
+    "saved": false,
+    "text": ""
+  },
+  "changeScript": {
+    "saved": false,
+    "text": ""
+  },
+  "overlayScript": {
+    "saved": false,
+    "text": ""
+  },
+  "structureIcons": {
+    "minecraft:ancient_city": true,
+    "minecraft:bastion_remnant": true,
+    "minecraft:buried_treasure": true,
+    "minecraft:desert_pyramid": true,
+    "minecraft:end_city": true,
+    "minecraft:fortress": true,
+    "minecraft:igloo": true,
+    "minecraft:jungle_pyramid": true,
+    "minecraft:mansion": true,
+    "minecraft:mineshaft": true,
+    "minecraft:monument": true,
+    "minecraft:nether_fossil": true,
+    "minecraft:ocean_ruin_warm": true,
+    "minecraft:pillager_outpost": true,
+    "minecraft:ruined_portal": true,
+    "minecraft:shipwreck": true,
+    "minecraft:stronghold": true,
+    "minecraft:swamp_hut": true,
+    "minecraft:trail_ruins": true,
+    "minecraft:trial_chambers": true,
+    "minecraft:village_desert": true,
+    "minecraft:village_plains": true,
+    "minecraft:village_savanna": true,
+    "minecraft:village_snowy": true,
+    "minecraft:village_taiga": true
+  }
+}

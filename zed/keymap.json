@@ -1,0 +1,369 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      // "shift shift": "file_finder::Toggle"
+    },
+  },
+  {
+    "context": "Editor && vim_mode == insert",
+    "bindings": {
+      // "j k": "vim::NormalBefore"
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-p": null,
+    },
+  },
+  {
+    "context": "MessageEditor > (Editor && VimControl)",
+    "bindings": {
+      "enter": null,
+    },
+  },
+  {
+    "context": "AcpThread > (Editor && use_modifier_to_send)",
+    "bindings": {
+      "ctrl-enter": null,
+    },
+  },
+  {
+    "context": "AcpThread > (Editor && !use_modifier_to_send)",
+    "bindings": {
+      "enter": null,
+    },
+  },
+  {
+    "context": "AgentDiff",
+    "bindings": {
+      "ctrl-alt-y": null,
+    },
+  },
+  {
+    "context": "(Editor && editor_agent_diff)",
+    "bindings": {
+      "ctrl-alt-y": null,
+    },
+  },
+  {
+    "context": "AgentDiff",
+    "bindings": {
+      "ctrl-alt-z": null,
+    },
+  },
+  {
+    "context": "(Editor && editor_agent_diff)",
+    "bindings": {
+      "ctrl-alt-z": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "alt-shift-y": null,
+    },
+  },
+  {
+    "context": "AgentDiff",
+    "bindings": {
+      "alt-shift-y": null,
+    },
+  },
+  {
+    "context": "(Editor && editor_agent_diff)",
+    "bindings": {
+      "alt-shift-y": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-shift-v": null,
+    },
+  },
+  {
+    "context": "ContextEditor > Editor",
+    "bindings": {
+      "ctrl-shift-v": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "alt-shift-z": null,
+    },
+  },
+  {
+    "context": "(AgentPanel && acp_thread)",
+    "bindings": {
+      "ctrl-alt-t": null,
+    },
+  },
+  {
+    "context": "(AgentPanel && text_thread)",
+    "bindings": {
+      "ctrl-alt-t": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-y": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-n": null,
+    },
+  },
+  {
+    "context": "AgentDiff",
+    "bindings": {
+      "alt-shift-z": null,
+    },
+  },
+  {
+    "context": "(Editor && editor_agent_diff)",
+    "bindings": {
+      "alt-shift-z": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-z": null,
+    },
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-?": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-y": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-shift-h": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-shift-enter": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-c": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-shift-r": null,
+    },
+  },
+  {
+    "context": "(AgentPanel && text_thread)",
+    "bindings": {
+      "ctrl-n": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-shift-enter": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-n": null,
+    },
+  },
+  {
+    "context": "(Editor && editor_agent_diff)",
+    "bindings": {
+      "ctrl-shift-r": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-enter": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-super-b": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-l": null,
+    },
+  },
+  {
+    "context": "ContextEditor > Editor",
+    "bindings": {
+      "ctrl-k l": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "shift-tab": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-shift-backspace": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-i": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "alt-tab": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "alt-shift-escape": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "alt-tab": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-/": null,
+    },
+  },
+  {
+    "context": "ThreadHistory",
+    "bindings": {
+      "backspace": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-alt-shift-n": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-shift-j": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-i": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "alt-enter": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl->": null,
+    },
+  },
+  {
+    "context": "InlineAssistant",
+    "bindings": {
+      "ctrl-[": null,
+    },
+  },
+  {
+    "context": "(AgentPanel && acp_thread)",
+    "bindings": {
+      "ctrl-n": null,
+    },
+  },
+  {
+    "context": "AcpThread > Editor",
+    "bindings": {
+      "ctrl-alt-shift-enter": null,
+    },
+  },
+  {
+    "context": "InlineAssistant",
+    "bindings": {
+      "ctrl-]": null,
+    },
+  },
+  {
+    "context": "(Editor && mode == full)",
+    "bindings": {
+      "ctrl->": null,
+    },
+  },
+  {
+    "context": "AgentPanel",
+    "bindings": {
+      "ctrl-i": null,
+    },
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "alt-space": "file_finder::Toggle",
+    },
+  },
+  {
+    "context": "(Editor && edit_prediction)",
+    "bindings": {
+      "ctrl-y": "editor::AcceptEditPrediction",
+    },
+  },
+  {
+    "context": "(Editor && edit_prediction)",
+    "bindings": {
+      "tab": null,
+    },
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-shift-p": null
+    }
+  }
+]
