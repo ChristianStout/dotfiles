@@ -54,9 +54,10 @@ button:hover {
 }
 
 /* you can set a style on hover for any module like this */
-#pulseaudio:hover {
-    background-color: #a37800;
-}
+/* #pulseaudio:hover { */
+/*      background-color: #a37800; */ 
+/*   background-image: linear-gradient(to bottom right, #38b000, #006400) */
+/* } */
 
 #workspaces button {
     padding: 0 5px;
@@ -124,7 +125,9 @@ button:hover {
 }
 
 #clock {
-    background-color: #64727d;
+    /* background-color: #64727d; */
+  background-image: linear-gradient(to bottom right, #B56775, #A45F5F);
+  /* color: #000000; */
 }
 
 #battery {
@@ -197,7 +200,9 @@ label:focus {
 }
 
 #network {
-    background-color: #2980b9;
+    /* background-color: #2980b9; */
+   background-image: linear-gradient(to bottom right, #A8CAAB, #619A5C);
+   color: #000000;
 }
 
 #network.disconnected {
@@ -205,7 +210,8 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: #f1c40f;
+    /* background-color: #f1c40f; */
+    background-image: linear-gradient(to bottom right, #CABA4F, #B46D4D);
     color: #000000;
 }
 
@@ -246,7 +252,9 @@ label:focus {
 }
 
 #tray {
-    background-color: #2980b9;
+    /* background-color: #2980b9; */
+  background-image: linear-gradient(to bottom right, #97B2B7, #5C639A);
+  color: #000000;
 }
 
 #tray > .passive {
