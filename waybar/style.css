@@ -131,8 +131,9 @@ button:hover {
 }
 
 #battery {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     color: #000000;
+   background-image: linear-gradient(to bottom right, #A8CAAB, #619A5C);
 }
 
 #battery.charging,
@@ -196,7 +197,8 @@ label:focus {
 }
 
 #backlight {
-    background-color: #90b1b1;
+    /* background-color: #90b1b1; */
+  background-image: linear-gradient(to bottom right, #97B2B7, #5C639A);
 }
 
 #network {
