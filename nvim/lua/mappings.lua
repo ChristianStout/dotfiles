@@ -9,6 +9,9 @@ map("v", "K", ":m '<-2<CR>gv=gv")
 
 map("n", "n", "nzzzv") -- Keep searches in the center of the screen
 map("n", "N", "Nzzzv")
+map("n", "<C-d>", "<C-d>zz")
+map("n", "<C-u>", "<C-u>zz")
+
 
 map("x", "<leader>p", "\"_dP")
 
