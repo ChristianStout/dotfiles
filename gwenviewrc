@@ -5,26 +5,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2001.HEIC
-File10[$e]=$HOME/Pictures/ghibli.png
-File2[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2317.HEIC
-File3[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2060.HEIC
-File4[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2059.HEIC
-File5[$e]=$HOME/Documents/chxk2csydkh81.webp
-File6[$e]=$HOME/Downloads/ludpiratepalette128-1x.png
-File7[$e]=$HOME/Downloads/lc-3.ico
-File8[$e]=$HOME/Pictures/2026-02-06-192835_hyprshot.png
-File9[$e]=$HOME/Pictures/2026-02-06-193156_hyprshot.png
-Name1[$e]=IMG_2001.HEIC
-Name10[$e]=ghibli.png
-Name2[$e]=IMG_2317.HEIC
-Name3[$e]=IMG_2060.HEIC
-Name4[$e]=IMG_2059.HEIC
-Name5[$e]=chxk2csydkh81.webp
-Name6[$e]=ludpiratepalette128-1x.png
-Name7[$e]=lc-3.ico
-Name8[$e]=2026-02-06-192835_hyprshot.png
-Name9[$e]=2026-02-06-193156_hyprshot.png
+File1[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2317.HEIC
+File10[$e]=$HOME/Pictures/Screenshot from 2025-04-17 13-40-25.png
+File2[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2060.HEIC
+File3[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2059.HEIC
+File4[$e]=$HOME/Documents/chxk2csydkh81.webp
+File5[$e]=$HOME/Downloads/ludpiratepalette128-1x.png
+File6[$e]=$HOME/Downloads/lc-3.ico
+File7[$e]=$HOME/Pictures/2026-02-06-192835_hyprshot.png
+File8[$e]=$HOME/Pictures/2026-02-06-193156_hyprshot.png
+File9[$e]=$HOME/Pictures/ghibli.png
+Name1[$e]=IMG_2317.HEIC
+Name10[$e]=Screenshot from 2025-04-17 13-40-25.png
+Name2[$e]=IMG_2060.HEIC
+Name3[$e]=IMG_2059.HEIC
+Name4[$e]=chxk2csydkh81.webp
+Name5[$e]=ludpiratepalette128-1x.png
+Name6[$e]=lc-3.ico
+Name7[$e]=2026-02-06-192835_hyprshot.png
+Name8[$e]=2026-02-06-193156_hyprshot.png
+Name9[$e]=ghibli.png
 
 [SideBar]
 InformationSplitterSizes=211,244

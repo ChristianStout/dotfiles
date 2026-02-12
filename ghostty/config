@@ -49,3 +49,4 @@
 # resize-overlay-duration = 4s 200ms
 theme = Rose Pine
 window-inherit-working-directory = false
+background-opacity = 0.95

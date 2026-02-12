@@ -65,18 +65,21 @@ button:hover {
     color: #ffffff;
     min-width: 12px;
     margin-left: 10px;
+    border:none;
 }
 
 #workspaces button:hover {
     background: rgba(0, 0, 0, 0.2);
     color: orange;
-    /*border-bottom: 1px solid green;*/
+    border-bottom: 1px solid green;
     border-radius: 0px;
+    border:none;
 }
 
 #workspaces button.focused {
     background-color: #64727d;
     box-shadow: inset 0 -3px #ffffff;
+
 }
 
 /*#workspaces button.urgent {
