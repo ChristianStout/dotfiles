@@ -31,7 +31,7 @@
             "_id": 3,
             "availability": 1.0,
             "default": false,
-            "name": "US West: Portland, OR (us-west-2)",
+            "name": "US West (Oregon)",
             "url_template": "rtmp://usw20.contribute.live-video.net/app/{stream_key}",
             "url_template_secure": "rtmps://usw20.contribute.live-video.net/app/{stream_key}",
             "priority": 3
@@ -40,7 +40,7 @@
             "_id": 4,
             "availability": 1.0,
             "default": false,
-            "name": "South America: Brazil, Sao Paulo (10)",
+            "name": "South America (São Paulo)",
             "url_template": "rtmp://sae10.contribute.live-video.net/app/{stream_key}",
             "url_template_secure": "rtmps://sae10.contribute.live-video.net/app/{stream_key}",
             "priority": 4
@@ -67,7 +67,7 @@
             "_id": 7,
             "availability": 1.0,
             "default": false,
-            "name": "Europe: Frankfurt (10)",
+            "name": "Europe (Frankfurt)",
             "url_template": "rtmp://euc10.contribute.live-video.net/app/{stream_key}",
             "url_template_secure": "rtmps://euc10.contribute.live-video.net/app/{stream_key}",
             "priority": 7
@@ -112,7 +112,7 @@
             "_id": 12,
             "availability": 1.0,
             "default": false,
-            "name": "Asia Southeast: Sydney (20)",
+            "name": "Asia Pacific (Sydney)",
             "url_template": "rtmp://aps20.contribute.live-video.net/app/{stream_key}",
             "url_template_secure": "rtmps://aps20.contribute.live-video.net/app/{stream_key}",
             "priority": 12
@@ -121,7 +121,7 @@
             "_id": 13,
             "availability": 1.0,
             "default": false,
-            "name": "Asia Southeast: Singapore (10)",
+            "name": "Asia Pacific (Singapore)",
             "url_template": "rtmp://aps10.contribute.live-video.net/app/{stream_key}",
             "url_template_secure": "rtmps://aps10.contribute.live-video.net/app/{stream_key}",
             "priority": 13

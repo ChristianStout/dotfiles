@@ -1,0 +1,47 @@
+{
+	"68c214c58f694ae88c2dab6f209b43e4": {
+		"game": {
+			"app_name": "68c214c58f694ae88c2dab6f209b43e4",
+			"title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+			"version": "1.0.0.10_WW",
+			"platform_versions": {
+				"Windows": "1.0.0.10_WW"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4605108,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "714bcd6e9f9349e89c58f678b86ac719",
+			"launch_exe": "KINGDOM HEARTS HD 1.5+2.5 ReMIX.exe",
+			"launch_command": "",
+			"build_version": "1.0.0.10_WW",
+			"build_id": "cjhYEMKXIk-Fdb_JtOYfOg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 536,
+			"num_chunks": 69778,
+			"disk_size": 77187456768,
+			"download_size": 70065715865,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"__timestamp": {
+		"68c214c58f694ae88c2dab6f209b43e4": "Wed Feb 25 2026 11:04:20 GMT-0500 (Eastern Standard Time)"
+	}
+}

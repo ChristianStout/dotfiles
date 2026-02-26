@@ -1,0 +1,312 @@
+{
+	"epic_68c214c58f694ae88c2dab6f209b43e4": {
+		"id": "54261181452239429",
+		"game_id": "51153182353732115",
+		"platform_id": "epic",
+		"external_id": "68c214c58f694ae88c2dab6f209b43e4",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51153182353732115",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"mods_ids": [],
+			"first_release_date": "2017-03-09T00:00:00+0000",
+			"releases": [
+				{
+					"id": "52089468255178285",
+					"platform_id": "psn",
+					"external_id": "CUSA05786_00",
+					"release_per_platform_id": "psn_CUSA05786_00",
+					"availability": 0
+				},
+				{
+					"id": "52374114305790676",
+					"platform_id": "psn",
+					"external_id": "CUSA05933_00",
+					"release_per_platform_id": "psn_CUSA05933_00",
+					"availability": 0
+				},
+				{
+					"id": "52437810728334332",
+					"platform_id": "psn",
+					"external_id": "CUSA05409_00",
+					"release_per_platform_id": "psn_CUSA05409_00",
+					"availability": 0
+				},
+				{
+					"id": "52961398397813420",
+					"platform_id": "test",
+					"external_id": "CUSA05933_00",
+					"release_per_platform_id": "test_CUSA05933_00",
+					"availability": 0
+				},
+				{
+					"id": "53082337488281763",
+					"platform_id": "xboxone",
+					"external_id": "1962559957",
+					"release_per_platform_id": "xboxone_1962559957",
+					"availability": 0
+				},
+				{
+					"id": "53283567837424563",
+					"platform_id": "xboxone",
+					"external_id": "1687388278",
+					"release_per_platform_id": "xboxone_1687388278",
+					"availability": 0
+				},
+				{
+					"id": "54127280890598418",
+					"platform_id": "epic",
+					"external_id": "GrapefruitDummy",
+					"release_per_platform_id": "epic_GrapefruitDummy",
+					"availability": 0
+				},
+				{
+					"id": "54261181452239429",
+					"platform_id": "epic",
+					"external_id": "68c214c58f694ae88c2dab6f209b43e4",
+					"release_per_platform_id": "epic_68c214c58f694ae88c2dab6f209b43e4",
+					"availability": 0
+				},
+				{
+					"id": "54788755368272026",
+					"platform_id": "test",
+					"external_id": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+					"release_per_platform_id": "test_Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+					"availability": 0
+				},
+				{
+					"id": "54789572570680895",
+					"platform_id": "test",
+					"external_id": "Kingdom Hearts HD 1 5 and 2 5 ReMIX",
+					"release_per_platform_id": "test_Kingdom Hearts HD 1 5 and 2 5 ReMIX",
+					"availability": 0
+				},
+				{
+					"id": "57642235087436915",
+					"platform_id": "steam",
+					"external_id": "2552430",
+					"release_per_platform_id": "steam_2552430",
+					"availability": 0
+				},
+				{
+					"id": "58100934334675986",
+					"platform_id": "humble",
+					"external_id": "kingdomhearts_12_25_remix_row_steam",
+					"release_per_platform_id": "humble_kingdomhearts_12_25_remix_row_steam",
+					"availability": 0
+				},
+				{
+					"id": "51153182353732115",
+					"platform_id": "generic",
+					"external_id": "51153182353732115",
+					"release_per_platform_id": "generic_51153182353732115",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+				"en-US": "Kingdom Hearts HD 1.5 + 2.5 Remix"
+			},
+			"sorting_title": {
+				"*": "Kingdom Hearts HD 15 25 Remix",
+				"en-US": "Kingdom Hearts HD 15 25 Remix"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141225662415964",
+				"51152774926559026"
+			],
+			"developers": [
+				{
+					"id": "51141225662415964",
+					"name": "Square Enix",
+					"slug": "square-enix"
+				},
+				{
+					"id": "51152774926559026",
+					"name": "Square Enix 1st Production Department",
+					"slug": "square-enix-1st-production-department"
+				}
+			],
+			"publishers_ids": [
+				"51141225662415964",
+				"51141411270613646"
+			],
+			"publishers": [
+				{
+					"id": "51141225662415964",
+					"name": "Square Enix",
+					"slug": "square-enix"
+				},
+				{
+					"id": "51141411270613646",
+					"name": "Disney Interactive Studios",
+					"slug": "disney-interactive-studios"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51071842246739768"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842246739768",
+					"name": {
+						"*": "Fantasy",
+						"en-US": "Fantasy"
+					},
+					"slug": "fantasy"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/2a38ff801f189559a3291e19779ec35684cf818c6f30180c742d0441f90311ba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e59e7d27de13cc8310b7f410c5e06e332d105fbd5fb74879805ed1564f1a869d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1a18d7fa52620e4ee75562ff33bc0d292323838eba7cc6fbf4ebc437c7267f65{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f3901363e355c09c34dde0d6bc8e67a167adce5c7b5458a65ffeda2a2f2fab0f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2477cedb59165e63356412cffa02610127a31ee9d84d0530e01dfaa1bc08fb9f{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "iFOnGbNHlrQ",
+					"thumbnail_id": "iFOnGbNHlrQ",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Wv0zANnJiVk",
+					"thumbnail_id": "Wv0zANnJiVk",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/718af75073535560a6dd8ad36f5da09be7850ee58f0fb186d40b81e9c7271752{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Kingdom Hearts HD 1.5 + 2.5 Remix is an HD remastered collection of 6 unforgettable Kingdom Hearts experiences. Kingdom Hearts HD 1.5 + 2.5 Remix is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness.",
+				"en-US": "Kingdom Hearts HD 1.5 + 2.5 Remix is an HD remastered collection of 6 unforgettable Kingdom Hearts experiences. Kingdom Hearts HD 1.5 + 2.5 Remix is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 84.5556,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/6eb02d0dbdaa4bd8064490d765cd821c680a2761e449aa8c6b604fec31711900{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/6eb02d0dbdaa4bd8064490d765cd821c680a2761e449aa8c6b604fec31711900{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/718af75073535560a6dd8ad36f5da09be7850ee58f0fb186d40b81e9c7271752{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "kingdom-hearts-hd-1-5-2-5-remix-2017"
+		},
+		"title": {
+			"*": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+			"en-US": "Kingdom Hearts HD 1.5 + 2.5 Remix"
+		},
+		"sorting_title": {
+			"*": "KINGDOM HEARTS HD 1525 ReMIX",
+			"en-US": "KINGDOM HEARTS HD 1525 ReMIX"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Kingdom Hearts HD 1.5 + 2.5 Remix is an HD remastered collection of 6 unforgettable Kingdom Hearts experiences. Kingdom Hearts HD 1.5 + 2.5 Remix is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness.",
+			"en-US": "Kingdom Hearts HD 1.5 + 2.5 Remix is an HD remastered collection of 6 unforgettable Kingdom Hearts experiences. Kingdom Hearts HD 1.5 + 2.5 Remix is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/022caeb31579cf218171bc5ff08161079b359ce5cb7bfc324898ebffad5895ac{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"88b8207f43b7f3415950fc76e105dd7a\""
+	},
+	"__timestamp": {
+		"epic_68c214c58f694ae88c2dab6f209b43e4": "Wed Feb 25 2026 11:04:11 GMT-0500 (Eastern Standard Time)"
+	}
+}

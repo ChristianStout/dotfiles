@@ -37,6 +37,9 @@ return {
         behavior = cmp.ConfirmBehavior.Insert,
         select = false,
       })
+        
+        opts.mapping["<Tab>"] = nil
+        opts.mapping["<C-Tab"] = nil
 
       -- Apply FULL config (sources, snippets, everything)
       cmp.setup(opts)
@@ -61,6 +64,7 @@ return {
       indent = { enable = true },
   	},
   },
+
     {
    "stevearc/conform.nvim",
    opts = {

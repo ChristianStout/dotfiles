@@ -1,0 +1,60 @@
+{
+	"4158b699dd70447a981fee752d970a3e": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-kingdomheartshd1525remix-squareenix-s4-1200x1600-0237f98276d6.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Square Enix",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Square Enix",
+			"description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is an HD remastered collection is an essential collection, featuring:\n• KINGDOM HEARTS FINAL MIX\n• KINGDOM HEARTS Re:Chain of Memories\n• KINGDOM HEARTS 358/2 Days (HD Remastered cinematics)\n• KINGDOM HEARTS II FINAL MIX\n• KINGDOM HEARTS Birth by Sleep Final MIX\n• KINGDOM HEARTS Re:coded (HD Remastered cinematics) \n\nStart your KINGDOM HEARTS journey now!\n\n※The \"Languages Supported\" section was revised on April 13, 2021.\n\n",
+			"shortDescription": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is an HD remastered collection of 6 unforgettable KINGDOM HEARTS experiences. KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness.",
+			"title": "Key Features",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64bit (ver. 1909 or later)",
+				"recommended": "Windows 10 64bit (ver. 1909 or later)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel® Core™ i3-3210,  AMD A8-7600",
+				"recommended": "Intel® Core™ i3-3210,  AMD A8-7600"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4GB or more ",
+				"recommended": "4GB or more "
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "60GB or more ",
+				"recommended": "60GB or more "
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "Version 12"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA® GeForce® GT 730,  AMD Radeon™ R7 240,  VRAM 2GB or more"
+			}
+		],
+		"releaseDate": "2021-03-30T13:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/kingdom-hearts-hd-1-5-2-5-remix"
+	},
+	"__timestamp": {
+		"4158b699dd70447a981fee752d970a3e": "Wed Feb 25 2026 11:04:11 GMT-0500 (Eastern Standard Time)"
+	}
+}

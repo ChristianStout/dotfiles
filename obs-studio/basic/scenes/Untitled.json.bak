@@ -11,7 +11,7 @@
         "mixers": 255,
         "sync": 0,
         "flags": 0,
-        "volume": 0.03238772973418236,
+        "volume": 1.0,
         "balance": 0.5,
         "enabled": true,
         "muted": false,
@@ -45,7 +45,7 @@
         "volume": 1.0,
         "balance": 0.5,
         "enabled": true,
-        "muted": true,
+        "muted": false,
         "push-to-mute": false,
         "push-to-mute-delay": 0,
         "push-to-talk": false,
@@ -67,7 +67,10 @@
                 "uuid": "4ba6c709-ef10-42ff-85a9-c70343dd724c",
                 "id": "compressor_filter",
                 "versioned_id": "compressor_filter",
-                "settings": {},
+                "settings": {
+                    "ratio": 14.0,
+                    "attack_time": 15
+                },
                 "mixers": 255,
                 "sync": 0,
                 "flags": 0,
@@ -92,9 +95,33 @@
                 "id": "noise_gate_filter",
                 "versioned_id": "noise_gate_filter",
                 "settings": {
-                    "open_threshold": -42.0,
-                    "close_threshold": -55.0
+                    "open_threshold": -39.0,
+                    "close_threshold": -53.0
                 },
+                "mixers": 255,
+                "sync": 0,
+                "flags": 0,
+                "volume": 1.0,
+                "balance": 0.5,
+                "enabled": true,
+                "muted": false,
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "hotkeys": {},
+                "deinterlace_mode": 0,
+                "deinterlace_field_order": 0,
+                "monitoring_type": 0,
+                "private_settings": {}
+            },
+            {
+                "prev_ver": 536870916,
+                "name": "Noise Suppression",
+                "uuid": "a85a7660-9440-494e-adba-5758412c352f",
+                "id": "noise_suppress_filter",
+                "versioned_id": "noise_suppress_filter_v2",
+                "settings": {},
                 "mixers": 255,
                 "sync": 0,
                 "flags": 0,
@@ -136,64 +163,9 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 2,
+                "id_counter": 4,
                 "custom_size": false,
                 "items": [
-                    {
-                        "name": "Display Capture (XSHM)",
-                        "source_uuid": "4d1299d6-8c7f-4bef-af07-485f73adfa4a",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 0.75,
-                            "y": 0.75
-                        },
-                        "scale_rel": {
-                            "x": 0.75,
-                            "y": 0.75
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
                     {
                         "name": "Screen Capture (PipeWire)",
                         "source_uuid": "cac5a15b-f72c-437c-9ebc-c4acfa96f1e8",
@@ -216,15 +188,15 @@
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
-                            "y": 3.0
+                            "y": 4.0
                         },
                         "pos_rel": {
                             "x": -1.7777777910232544,
                             "y": -0.9944444298744202
                         },
                         "scale": {
-                            "x": 0.75,
-                            "y": 0.75
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_rel": {
                             "x": 0.75,
@@ -264,8 +236,6 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
                 "libobs.show_scene_item.2": [],
                 "libobs.hide_scene_item.2": []
             },
@@ -273,32 +243,6 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536870916,
-            "name": "Display Capture (XSHM)",
-            "uuid": "4d1299d6-8c7f-4bef-af07-485f73adfa4a",
-            "id": "xshm_input_v2",
-            "versioned_id": "xshm_input_v2",
-            "settings": {
-                "screen": 0
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
             "private_settings": {}
         },
         {
@@ -332,7 +276,7 @@
                         "id": 4,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 1372.0,
+                            "x": 1829.5,
                             "y": 0.0
                         },
                         "pos_rel": {
@@ -340,8 +284,8 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 0.2854166626930237,
-                            "y": 0.28518518805503845
+                            "x": 0.38055557012557983,
+                            "y": 0.38024693727493286
                         },
                         "scale_rel": {
                             "x": 0.2854166626930237,
@@ -459,8 +403,8 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 1.3333333730697632,
+                            "y": 1.3333333730697632
                         },
                         "scale_rel": {
                             "x": 1.0,
@@ -567,7 +511,7 @@
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -12,
+    "scaling_level": -5,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
@@ -595,8 +539,8 @@
         }
     },
     "resolution": {
-        "x": 1920,
-        "y": 1080
+        "x": 2560,
+        "y": 1440
     },
     "version": 2
 }
