@@ -277,9 +277,8 @@ layout {
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
 spawn-at-startup "waybar"
-// spawn-at-startup "/usr/lib/pam_kwallet_init &"
 spawn-at-startup "/usr/lib/pam_kwallet_init"
-spawn-at-startup "swaybg --image ~/Pictures/Wallpapers/forest.jpg --output DP-1 &"
+spawn-sh-at-startup "swaybg --image ~/Pictures/Wallpapers/forest.jpg --output DP-1 &"
 
 // To run a shell command (with variables, pipes, etc.), use spawn-sh-at-startup:
 // spawn-sh-at-startup "qs -c ~/source/qs/MyAwesomeShell"
@@ -376,7 +375,8 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: Ghostty" { spawn "ghostty"; }
     Mod+Space hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
-    Mod+B hotkey-overlay-title="Run browser: Zen" { spawn "flatpak run app.zen_browser.zen"; }
+    Mod+B hotkey-overlay-title="Run browser: Zen" { spawn-sh "flatpak run app.zen_browser.zen"; }
+    Mod+N hotkey-overlay-title="Run file browser: Nautilus" { spawn "nautilus"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
     // Note: the entire command goes as a single argument. It's passed verbatim to `sh -c`.
