@@ -1,8 +1,0 @@
-2026/02/25-10:33:15.611 3f01 Creating DB /home/christian/.config/heroic/Partitions/undefined/Local Storage/leveldb since it was missing.
-2026/02/25-10:33:15.615 3f01 Reusing MANIFEST /home/christian/.config/heroic/Partitions/undefined/Local Storage/leveldb/MANIFEST-000001
-2026/02/25-10:48:45.014 3f01 Level-0 table #5: started
-2026/02/25-10:48:45.016 3f01 Level-0 table #5: 20202 bytes OK
-2026/02/25-10:48:45.017 3f01 Delete type=0 #3
-2026/02/25-10:49:12.202 3f01 Level-0 table #7: started
-2026/02/25-10:49:12.204 3f01 Level-0 table #7: 17821 bytes OK
-2026/02/25-10:49:12.205 3f01 Delete type=0 #4

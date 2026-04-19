@@ -43,8 +43,8 @@
   "ui_font_size": 16.0,
   "buffer_font_size": 15,
   "theme": {
-    "mode": "dark",
-    "light": "Dayfox - opaque",
+    "mode": "light",
+    "light": "Everforest Light Hard (blur)",
     "dark": "Catppuccin Macchiato - No Italics",
   },
 }

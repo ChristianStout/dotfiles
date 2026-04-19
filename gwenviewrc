@@ -8,26 +8,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2060.HEIC
-File10[$e]=$HOME/Downloads/9428.jpg
-File2[$e]=afc://00008120-001230343a63c01e/DCIM/102APPLE/IMG_2059.HEIC
-File3[$e]=$HOME/Documents/chxk2csydkh81.webp
-File4[$e]=$HOME/Downloads/ludpiratepalette128-1x.png
-File5[$e]=$HOME/Downloads/lc-3.ico
-File6[$e]=$HOME/Pictures/2026-02-06-192835_hyprshot.png
-File7[$e]=$HOME/Pictures/2026-02-06-193156_hyprshot.png
-File8[$e]=$HOME/Pictures/ghibli.png
-File9[$e]=$HOME/Pictures/Screenshot from 2025-04-17 13-40-25.png
-Name1[$e]=IMG_2060.HEIC
-Name10[$e]=9428.jpg
-Name2[$e]=IMG_2059.HEIC
-Name3[$e]=chxk2csydkh81.webp
-Name4[$e]=ludpiratepalette128-1x.png
-Name5[$e]=lc-3.ico
-Name6[$e]=2026-02-06-192835_hyprshot.png
-Name7[$e]=2026-02-06-193156_hyprshot.png
-Name8[$e]=ghibli.png
-Name9[$e]=Screenshot from 2025-04-17 13-40-25.png
+File1[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0621.jpg
+File10[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800.bmp
+File2[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0647.jpg
+File3[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0673.jpg
+File4[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0676.jpg
+File5[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0922.jpg
+File6[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0900.jpg
+File7[$e]=$HOME/Pictures/VerticalWallpapers/HEGXltHXAAA5ezc.jpg
+File8[$e]=$HOME/Pictures/x4Wallpapers/GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
+File9[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800(1).bmp
+Name1[$e]=IMG_0621.jpg
+Name10[$e]=bike-xteink-x4-portrait-480x800.bmp
+Name2[$e]=IMG_0647.jpg
+Name3[$e]=IMG_0673.jpg
+Name4[$e]=IMG_0676.jpg
+Name5[$e]=IMG_0922.jpg
+Name6[$e]=IMG_0900.jpg
+Name7[$e]=HEGXltHXAAA5ezc.jpg
+Name8[$e]=GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
+Name9[$e]=bike-xteink-x4-portrait-480x800(1).bmp
 
 [SideBar]
 InformationSplitterSizes=211,244

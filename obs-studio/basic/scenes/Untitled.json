@@ -1,6 +1,7 @@
 {
+    "name": "Untitled",
     "DesktopAudioDevice1": {
-        "prev_ver": 536870916,
+        "prev_ver": 536936448,
         "name": "Desktop Audio",
         "uuid": "afe97052-3410-4f57-bce6-65beae2ec594",
         "id": "pulse_output_capture",
@@ -31,7 +32,7 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 536870916,
+        "prev_ver": 536936448,
         "name": "Mic/Aux",
         "uuid": "196117dd-9c30-451c-b253-98f9f6c806e5",
         "id": "pulse_input_capture",
@@ -62,7 +63,7 @@
         "private_settings": {},
         "filters": [
             {
-                "prev_ver": 536870916,
+                "prev_ver": 536936448,
                 "name": "Compressor",
                 "uuid": "4ba6c709-ef10-42ff-85a9-c70343dd724c",
                 "id": "compressor_filter",
@@ -89,7 +90,7 @@
                 "private_settings": {}
             },
             {
-                "prev_ver": 536870916,
+                "prev_ver": 536936448,
                 "name": "Noise Gate",
                 "uuid": "daf729f3-5263-4694-8aac-a92559d01ebd",
                 "id": "noise_gate_filter",
@@ -116,7 +117,7 @@
                 "private_settings": {}
             },
             {
-                "prev_ver": 536870916,
+                "prev_ver": 536936448,
                 "name": "Noise Suppression",
                 "uuid": "a85a7660-9440-494e-adba-5758412c352f",
                 "id": "noise_suppress_filter",
@@ -141,23 +142,65 @@
             }
         ]
     },
-    "current_scene": "Scene",
-    "current_program_scene": "Scene",
-    "scene_order": [
-        {
-            "name": "Scene"
-        },
-        {
-            "name": "Webcam + desktop"
-        },
-        {
-            "name": "Webcam"
-        }
-    ],
-    "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 536870916,
+            "prev_ver": 536936448,
+            "name": "Video Capture Device (V4L2)",
+            "uuid": "4814e641-70d7-44d9-8229-396012b4c5e0",
+            "id": "v4l2_input",
+            "versioned_id": "v4l2_input",
+            "settings": {
+                "device_id": "/dev/video0",
+                "input": 0,
+                "pixelformat": 1196444237,
+                "resolution": 8246337209400,
+                "framerate": -1
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936448,
+            "name": "Screen Capture (PipeWire)",
+            "uuid": "cac5a15b-f72c-437c-9ebc-c4acfa96f1e8",
+            "id": "pipewire-screen-capture-source",
+            "versioned_id": "pipewire-screen-capture-source",
+            "settings": {
+                "RestoreToken": ""
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936448,
             "name": "Scene",
             "uuid": "ba9bc8ae-20f3-4353-a13e-06bce7824bfc",
             "id": "scene",
@@ -246,7 +289,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536870916,
+            "prev_ver": 536936448,
             "name": "Webcam + desktop",
             "uuid": "24431b8b-cbf8-46db-9630-6f1a18ad5f7d",
             "id": "scene",
@@ -335,37 +378,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536870916,
-            "name": "Video Capture Device (V4L2)",
-            "uuid": "4814e641-70d7-44d9-8229-396012b4c5e0",
-            "id": "v4l2_input",
-            "versioned_id": "v4l2_input",
-            "settings": {
-                "device_id": "/dev/video0",
-                "input": 0,
-                "pixelformat": 1196444237,
-                "resolution": 8246337209400,
-                "framerate": -1
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536870916,
+            "prev_ver": 536936448,
             "name": "Webcam",
             "uuid": "46ce6096-a0f8-498c-bb5d-9d893bfca32f",
             "id": "scene",
@@ -452,35 +465,26 @@
             "monitoring_type": 0,
             "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
-        },
-        {
-            "prev_ver": 536870916,
-            "name": "Screen Capture (PipeWire)",
-            "uuid": "cac5a15b-f72c-437c-9ebc-c4acfa96f1e8",
-            "id": "pipewire-screen-capture-source",
-            "versioned_id": "pipewire-screen-capture-source",
-            "settings": {
-                "RestoreToken": ""
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
         }
     ],
     "groups": [],
+    "scene_order": [
+        {
+            "name": "Scene"
+        },
+        {
+            "name": "Webcam + desktop"
+        },
+        {
+            "name": "Webcam"
+        }
+    ],
+    "current_scene": "Webcam",
+    "current_program_scene": "Webcam",
+    "canvases": [],
+    "current_transition": "Fade",
+    "transition_duration": 300,
+    "transitions": [],
     "quick_transitions": [
         {
             "name": "Cut",
@@ -504,14 +508,10 @@
             "fade_to_black": true
         }
     ],
-    "transitions": [],
     "saved_projectors": [],
-    "canvases": [],
-    "current_transition": "Fade",
-    "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -5,
+    "scaling_level": -7,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
