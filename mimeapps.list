@@ -5,6 +5,10 @@ application/vnd.sqlite3=vim.desktop;
 application/zip=org.kde.ark.desktop;
 image/jpeg=org.kde.gwenview.desktop;
 image/bmp=org.kde.gwenview.desktop;
+image/png=org.kde.gwenview.desktop;
+text/csv=onlyoffice-desktopeditors.desktop;
+audio/mpeg=mpv.desktop;org.gnome.Rhythmbox3.desktop;
+audio/flac=org.gnome.Rhythmbox3.desktop;
 
 [Default Applications]
 x-scheme-handler/http=app.zen_browser.zen.desktop;
@@ -13,3 +17,7 @@ x-scheme-handler/etcher=balenaEtcher.desktop
 application/zip=org.kde.ark.desktop
 image/jpeg=org.kde.gwenview.desktop
 image/bmp=org.kde.gwenview.desktop
+image/png=org.kde.gwenview.desktop
+text/csv=onlyoffice-desktopeditors.desktop
+audio/mpeg=org.gnome.Rhythmbox3.desktop
+audio/flac=org.gnome.Rhythmbox3.desktop

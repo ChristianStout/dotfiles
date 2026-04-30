@@ -1,6 +1,3 @@
-[FullScreen]
-FullScreenModeActive=true
-
 [General]
 LastUsedVersion=210800
 
@@ -8,26 +5,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0621.jpg
-File10[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800.bmp
-File2[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0647.jpg
-File3[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0673.jpg
-File4[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0676.jpg
-File5[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0922.jpg
-File6[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0900.jpg
-File7[$e]=$HOME/Pictures/VerticalWallpapers/HEGXltHXAAA5ezc.jpg
-File8[$e]=$HOME/Pictures/x4Wallpapers/GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
-File9[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800(1).bmp
-Name1[$e]=IMG_0621.jpg
-Name10[$e]=bike-xteink-x4-portrait-480x800.bmp
-Name2[$e]=IMG_0647.jpg
-Name3[$e]=IMG_0673.jpg
-Name4[$e]=IMG_0676.jpg
-Name5[$e]=IMG_0922.jpg
-Name6[$e]=IMG_0900.jpg
-Name7[$e]=HEGXltHXAAA5ezc.jpg
-Name8[$e]=GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
-Name9[$e]=bike-xteink-x4-portrait-480x800(1).bmp
+File1[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0673.jpg
+File10[$e]=$HOME/Media/Music/Ethel Cain - Preacher’s Daughter (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/cover.jpg
+File2[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0676.jpg
+File3[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0922.jpg
+File4[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0900.jpg
+File5[$e]=$HOME/Pictures/VerticalWallpapers/HEGXltHXAAA5ezc.jpg
+File6[$e]=$HOME/Pictures/x4Wallpapers/GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
+File7[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800(1).bmp
+File8[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800.bmp
+File9[$e]=$HOME/Documents/projects/mapstrat/iberia.png
+Name1[$e]=IMG_0673.jpg
+Name10[$e]=cover.jpg
+Name2[$e]=IMG_0676.jpg
+Name3[$e]=IMG_0922.jpg
+Name4[$e]=IMG_0900.jpg
+Name5[$e]=HEGXltHXAAA5ezc.jpg
+Name6[$e]=GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
+Name7[$e]=bike-xteink-x4-portrait-480x800(1).bmp
+Name8[$e]=bike-xteink-x4-portrait-480x800.bmp
+Name9[$e]=iberia.png
 
 [SideBar]
 InformationSplitterSizes=211,244
