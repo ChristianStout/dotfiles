@@ -3,23 +3,34 @@
   "modules": [
     "title",
     "separator",
+    "break",
+
     "os",
     "cpu",
     "gpu",
     "host",
-    "kernel",
-    "packages",
-    "uptime",
-    "shell",
     "display",
+
+    "break",
+    "separator",
+    "break",
+
     "de",
     "wm",
-    "font",
-    "cursor",
+    "kernel",
+    "shell",
     "terminal",
     "terminalfont",
-    "memory",
+    "font",
+ 
     "break",
-    "colors"
+    "separator",
+    "break",
+   
+    "memory",
+    "packages",
+    "uptime",
+
+    "break",
   ]
 }
