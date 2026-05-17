@@ -21,22 +21,22 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=30,87,116
-BackgroundNormal=41,44,48
+BackgroundAlternate=163,212,250
+BackgroundNormal=252,252,252
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Complementary]
-BackgroundAlternate=30,87,116
-BackgroundNormal=32,35,38
+BackgroundAlternate=27,30,32
+BackgroundNormal=42,46,50
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -49,101 +49,109 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
+BackgroundAlternate=239,240,241
+BackgroundNormal=222,224,226
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header][Inactive]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
+BackgroundAlternate=227,229,231
+BackgroundNormal=239,240,241
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=30,87,116
+BackgroundAlternate=163,212,250
 BackgroundNormal=61,174,233
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
-ForegroundActive=252,252,252
-ForegroundInactive=161,169,177
+ForegroundActive=255,255,255
+ForegroundInactive=112,125,138
 ForegroundLink=253,188,75
 ForegroundNegative=176,55,69
 ForegroundNeutral=198,92,0
-ForegroundNormal=252,252,252
+ForegroundNormal=255,255,255
 ForegroundPositive=23,104,57
 ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
+BackgroundAlternate=239,240,241
+BackgroundNormal=247,247,247
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=29,31,34
-BackgroundNormal=20,22,24
+BackgroundAlternate=247,247,247
+BackgroundNormal=255,255,255
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
+BackgroundAlternate=227,229,231
+BackgroundNormal=239,240,241
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundInactive=112,125,138
+ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
+[DirSelect Dialog]
+DirSelectDialog Size=820,584
+History Items[$e]=file:$HOME/Media/1TBStorage/SteamLibrary,file:$HOME/Media/2TBStorage/SteamLibrary,file:///media/christian/0f211051-3936-4543-a227-2791c03839c1/christian/.steam,file:///media/christian/16C5-E78B/books
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
 [General]
-ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+ColorSchemeHash=3b0b7b7f6fa70c9f360b5a78837836d8971524f3
 
 [KDE]
 AnimationDurationFactor=0.25
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=org.debian.desktop
 
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
@@ -157,9 +165,9 @@ Speedbar Width=140
 View Style=DetailTree
 
 [WM]
-activeBackground=39,44,49
-activeBlend=252,252,252
-activeForeground=252,252,252
-inactiveBackground=32,36,40
-inactiveBlend=161,169,177
-inactiveForeground=161,169,177
+activeBackground=227,229,231
+activeBlend=227,229,231
+activeForeground=35,38,41
+inactiveBackground=239,240,241
+inactiveBlend=239,240,241
+inactiveForeground=112,125,138

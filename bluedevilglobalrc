@@ -1,5 +1,5 @@
 [Adapters]
-00:1A:7D:DA:71:13_powered=true
+00:1A:7D:DA:71:13_powered=false
 
 [Devices]
 connectedDevices=

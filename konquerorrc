@@ -1,0 +1,26 @@
+[General]
+Volume=1
+
+[Phonon::AudioOutput]
+Konqueror_Volume=1
+
+[SearchBar]
+CompletionMode=5
+CurrentEngine=duckduckgo
+History list=\\0
+Mode=1
+
+[Undo]
+Number of Closed Windows=19
+
+[file:///home/christian/2TBStorage/Media/TV/Over the Garden Wall (2014) Season 1 S01 + Extras (1080p BluRay x265 HEVC 10bit AAC 2.0 RZeroX)/Over the Garden Wall (2014) - S01E01 - The Old Grist Mill (1080p BluRay x265 RZeroX).mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2026,5,12
+Hue=0
+IsVideo=true
+Position=68391
+Preferred Size=1673,1268
+Saturation=0
+Subtitle=1

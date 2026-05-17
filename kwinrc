@@ -8,6 +8,12 @@ Id_6=a310ea6f-65c4-4998-ae4c-b921f5f9b87a
 Number=6
 Rows=2
 
+[Tiling]
+padding=4
+
+[Tiling][3868d814-d0a6-5a01-8263-faa813bca07d]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][4abee843-52cf-408a-902c-4e4d1f8f8c05][]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 

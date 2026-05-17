@@ -9,6 +9,7 @@ image/png=org.kde.gwenview.desktop;
 text/csv=onlyoffice-desktopeditors.desktop;
 audio/mpeg=mpv.desktop;org.gnome.Rhythmbox3.desktop;
 audio/flac=org.gnome.Rhythmbox3.desktop;
+image/x-olympus-orf=RapidRAW.desktop;
 
 [Default Applications]
 x-scheme-handler/http=app.zen_browser.zen.desktop;

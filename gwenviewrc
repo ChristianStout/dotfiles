@@ -1,3 +1,6 @@
+[FullScreen]
+FullScreenModeActive=true
+
 [General]
 LastUsedVersion=210800
 
@@ -5,26 +8,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0673.jpg
-File10[$e]=$HOME/Media/Music/Ethel Cain - Preacher’s Daughter (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/cover.jpg
-File2[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0676.jpg
-File3[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0922.jpg
-File4[$e]=$HOME/Pictures/VerticalWallpapers/IMG_0900.jpg
-File5[$e]=$HOME/Pictures/VerticalWallpapers/HEGXltHXAAA5ezc.jpg
-File6[$e]=$HOME/Pictures/x4Wallpapers/GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
-File7[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800(1).bmp
-File8[$e]=$HOME/Pictures/x4Wallpapers/bike-xteink-x4-portrait-480x800.bmp
-File9[$e]=$HOME/Documents/projects/mapstrat/iberia.png
-Name1[$e]=IMG_0673.jpg
-Name10[$e]=cover.jpg
-Name2[$e]=IMG_0676.jpg
-Name3[$e]=IMG_0922.jpg
-Name4[$e]=IMG_0900.jpg
-Name5[$e]=HEGXltHXAAA5ezc.jpg
-Name6[$e]=GnzTq5lXkAEmUjB-xteink-x4-portrait-480x800.bmp
-Name7[$e]=bike-xteink-x4-portrait-480x800(1).bmp
-Name8[$e]=bike-xteink-x4-portrait-480x800.bmp
-Name9[$e]=iberia.png
+File1[$e]=$HOME/Pictures/Photos/P1011601.JPG
+File10[$e]=$HOME/Pictures/Photos/kevin1.jpg
+File2[$e]=$HOME/Pictures/Photos/plugs.jpg
+File3[$e]=$HOME/Pictures/Photos/tuna.jpg
+File4[$e]=$HOME/Pictures/Photos/tuna0.JPG
+File5[$e]=$HOME/Pictures/Photos/tuna00.JPG
+File6[$e]=$HOME/Pictures/Photos/tuna2.jpg
+File7[$e]=$HOME/Pictures/Photos/tuna3.jpg
+File8[$e]=$HOME/Pictures/Photos/tuna4.jpg
+File9[$e]=$HOME/Pictures/Photos/kevin2.jpg
+Name1[$e]=P1011601.JPG
+Name10[$e]=kevin1.jpg
+Name2[$e]=plugs.jpg
+Name3[$e]=tuna.jpg
+Name4[$e]=tuna0.JPG
+Name5[$e]=tuna00.JPG
+Name6[$e]=tuna2.jpg
+Name7[$e]=tuna3.jpg
+Name8[$e]=tuna4.jpg
+Name9[$e]=kevin2.jpg
 
 [SideBar]
-InformationSplitterSizes=211,244
+InformationSplitterSizes=210,243

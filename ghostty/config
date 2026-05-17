@@ -50,6 +50,7 @@
 theme = Rose Pine
 window-inherit-working-directory = false
 background-opacity = 0.95
+window-decoration = false
 # font-size: 11
 # keybind = ctrl+return=unbind
 # keybind = ctrl+f=toggle_fullscreen

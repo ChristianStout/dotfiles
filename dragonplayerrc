@@ -1,0 +1,31 @@
+[General]
+ColorSchemeHash[$d]
+File1[$e]=/media/christian/disk/DCIM/102OLYMP/P5051816.AVI
+File2[$e]=/media/christian/disk/DCIM/102OLYMP/P5051814.AVI
+Name1[$e]=P5051816.AVI
+Name2[$e]=P5051814.AVI
+TimeFormat=1
+Volume=1
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=1
+
+[file:///media/christian/disk/DCIM/102OLYMP/P5051814.AVI]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2026,5,5
+Hue=0
+IsVideo=true
+Position=44634
+Preferred Size=1254,1319
+Saturation=0
+
+[file:///media/christian/disk/DCIM/102OLYMP/P5051816.AVI]
+Brightness=0
+Contrast=0
+Date=2026,5,5
+Hue=0
+IsVideo=false
+Preferred Size=1254,1319
+Saturation=0

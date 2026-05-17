@@ -1,3 +1,6 @@
+[ExtractDialog]
+DirHistory[$e]=/media/christian/SHARE/roms/gba/,/media/christian/SHARE/roms/ports/rockbox/themes/,$HOME/Media/2TBStorage/ROMs/,$HOME/Downloads/
+
 [Extraction]
 openDestinationFolderAfterExtraction=true
 
