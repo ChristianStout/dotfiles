@@ -1,7 +1,12 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "modules": [
-    "title",
+    {
+        "type": "title",
+        "colorUser": "cyan",
+        "colorHost": "yellow",
+        "colorAt": "red",
+    },
     "separator",
     "break",
 
